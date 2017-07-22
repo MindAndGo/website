@@ -20,8 +20,10 @@
 ##############################################################################
 {
     "name": "Backend views for website",
-    "version": "8.0.1.0.0",
-    "author": "Therp BV,Odoo Community Association (OCA)",
+    "version": "9.0.1.0.0",
+    "author": "Therp BV, "
+              "Odoo Community Association (OCA), "
+              "Kaushal Prajapati",
     "license": "AGPL-3",
     "category": "Dependency",
     "summary": "Hook backend views into your website frontend",
@@ -38,7 +40,7 @@
     "test": [
     ],
     "auto_install": False,
-    'installable': False,
+    'installable': True,
     "application": False,
     "external_dependencies": {
         'python': [],

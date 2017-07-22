@@ -24,7 +24,7 @@ from openerp import models
 
 
 class WebsiteQweb(models.Model):
-    _inherit = 'website.qweb'
+    _inherit = 'ir.qweb'
 
     def render_tag_website_backend_view(
             self, element, template_attributes, generated_attributes,

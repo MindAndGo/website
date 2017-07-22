@@ -25,6 +25,7 @@ Contributors
 ------------
 
 * Holger Brunn <hbrunn@therp.nl>
+* Kaushal Prajapati <kbprajapati@live.com>
 
 Maintainer
 ----------

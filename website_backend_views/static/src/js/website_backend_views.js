@@ -20,6 +20,7 @@
 //############################################################################
 (function()
 {
+    console.info('hwlllllllll');
     openerp.website.dom_ready.then(function()
     {
         var views = jQuery('[data-website-backend-view-model]');
@@ -55,4 +56,4 @@
             });
         });
     });
-})()
+});
